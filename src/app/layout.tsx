@@ -9,14 +9,14 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.trafficmore.ru"),
+  metadataBase: new URL("https://lead-key.ru"),
   title: {
-    default: "Neuro Marketing — Авитологи с опытом",
-    template: "%s | Neuro Marketing",
+    default: "Lead-Key — продвижение бизнеса на Авито под ключ",
+    template: "%s | Lead-Key",
   },
-  applicationName: "Neuro Marketing",
+  applicationName: "Lead-Key",
   description:
-    "Комплексное продвижение бизнеса на Авито: аудит, запуск, ведение и масштабирование с фокусом на лиды и продажи.",
+    "Профессиональное продвижение бизнеса на Авито: аудит, упаковка, ключевые слова, дизайн и ведение аккаунта под ключ. Официальный партнёр Avito.",
   alternates: {
     canonical: "/",
   },
@@ -30,17 +30,17 @@ export const metadata: Metadata = {
     shortcut: ["/favicon.ico"],
   },
   openGraph: {
-    title: "Neuro Marketing — Авитологи с опытом",
+    title: "Lead-Key — продвижение бизнеса на Авито под ключ",
     description:
-      "Получайте больше клиентов с Авито уже сейчас. Тарифы под разные задачи: аудит, запуск и ведение под ключ.",
+      "Полный цикл ведения аккаунта на Авито: от настроек до лидов. Увеличим продажи в 1,5–4 раза. Официальный партнёр Avito.",
     url: "/",
-    siteName: "Neuro Marketing",
+    siteName: "Lead-Key",
     images: [
       {
         url: "/neuro-logo.png",
         width: 1200,
         height: 1200,
-        alt: "Логотип Neuro Marketing",
+        alt: "Lead-Key",
       },
     ],
     locale: "ru_RU",
@@ -48,9 +48,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Neuro Marketing — Авитологи с опытом",
+    title: "Lead-Key — продвижение бизнеса на Авито под ключ",
     description:
-      "Получайте больше клиентов с Авито уже сейчас. Аудит, запуск и ведение под ключ.",
+      "Полный цикл ведения аккаунта на Авито: от настроек до лидов. Официальный партнёр Avito.",
     images: ["/neuro-logo.png"],
   },
 };
